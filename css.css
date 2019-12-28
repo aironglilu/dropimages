@@ -1,0 +1,17 @@
+
+ body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: solid 1px red;
+    position: absolute;
+    
+}
+
+canvas,div {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
